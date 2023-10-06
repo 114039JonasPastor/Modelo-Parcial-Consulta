@@ -1,0 +1,44 @@
+D:\UTN\TUP PROG II\Examen Final 02-12-2022\Pedidos\PedidosSLN\bin\Debug\RecetasSLN.exe.config
+D:\UTN\TUP PROG II\Examen Final 02-12-2022\Pedidos\PedidosSLN\bin\Debug\RecetasSLN.exe
+D:\UTN\TUP PROG II\Examen Final 02-12-2022\Pedidos\PedidosSLN\bin\Debug\RecetasSLN.pdb
+D:\UTN\TUP PROG II\Examen Final 02-12-2022\Pedidos\PedidosSLN\obj\Debug\PedidosSLN.csproj.AssemblyReference.cache
+D:\UTN\TUP PROG II\Examen Final 02-12-2022\Pedidos\PedidosSLN\obj\Debug\PedidosSLN.csproj.SuggestedBindingRedirects.cache
+D:\UTN\TUP PROG II\Examen Final 02-12-2022\Pedidos\PedidosSLN\obj\Debug\RecetasSLN.Properties.Resources.resources
+D:\UTN\TUP PROG II\Examen Final 02-12-2022\Pedidos\PedidosSLN\obj\Debug\PedidosSLN.csproj.GenerateResource.cache
+D:\UTN\TUP PROG II\Examen Final 02-12-2022\Pedidos\PedidosSLN\obj\Debug\PedidosSLN.csproj.CoreCompileInputs.cache
+D:\UTN\TUP PROG II\Examen Final 02-12-2022\Pedidos\PedidosSLN\obj\Debug\RecetasSLN.exe
+D:\UTN\TUP PROG II\Examen Final 02-12-2022\Pedidos\PedidosSLN\obj\Debug\RecetasSLN.pdb
+D:\UTN\TUP PROG II\Examen Final 02-12-2022\Pedidos\PedidosSLN\obj\Debug\RecetasSLN.presentación.FrmConsultar.resources
+D:\UTN\TUP PROG II\Examen Final 02-12-2022\Pedidos resuelto\PedidosSLN\bin\Debug\RecetasSLN.exe.config
+D:\UTN\TUP PROG II\Examen Final 02-12-2022\Pedidos resuelto\PedidosSLN\bin\Debug\RecetasSLN.exe
+D:\UTN\TUP PROG II\Examen Final 02-12-2022\Pedidos resuelto\PedidosSLN\bin\Debug\RecetasSLN.pdb
+D:\UTN\TUP PROG II\Examen Final 02-12-2022\Pedidos resuelto\PedidosSLN\obj\Debug\PedidosSLN.csproj.AssemblyReference.cache
+D:\UTN\TUP PROG II\Examen Final 02-12-2022\Pedidos resuelto\PedidosSLN\obj\Debug\PedidosSLN.csproj.SuggestedBindingRedirects.cache
+D:\UTN\TUP PROG II\Examen Final 02-12-2022\Pedidos resuelto\PedidosSLN\obj\Debug\RecetasSLN.presentación.FrmConsultar.resources
+D:\UTN\TUP PROG II\Examen Final 02-12-2022\Pedidos resuelto\PedidosSLN\obj\Debug\RecetasSLN.Properties.Resources.resources
+D:\UTN\TUP PROG II\Examen Final 02-12-2022\Pedidos resuelto\PedidosSLN\obj\Debug\PedidosSLN.csproj.GenerateResource.cache
+D:\UTN\TUP PROG II\Examen Final 02-12-2022\Pedidos resuelto\PedidosSLN\obj\Debug\PedidosSLN.csproj.CoreCompileInputs.cache
+D:\UTN\TUP PROG II\Examen Final 02-12-2022\Pedidos resuelto\PedidosSLN\obj\Debug\RecetasSLN.exe
+D:\UTN\TUP PROG II\Examen Final 02-12-2022\Pedidos resuelto\PedidosSLN\obj\Debug\RecetasSLN.pdb
+D:\UTN\TUP PROG II\Examen Final 02-12-2022\Pedidos para alumnos\PedidosSLN\obj\Debug\PedidosSLN.csproj.AssemblyReference.cache
+D:\UTN\TUP PROG II\Examen Final 02-12-2022\Pedidos para alumnos\PedidosSLN\obj\Debug\PedidosSLN.csproj.SuggestedBindingRedirects.cache
+D:\UTN\TUP PROG II\Examen Final 02-12-2022\Pedidos para alumnos\PedidosSLN\obj\Debug\RecetasSLN.presentación.FrmConsultar.resources
+D:\UTN\TUP PROG II\Examen Final 02-12-2022\Pedidos para alumnos\PedidosSLN\obj\Debug\RecetasSLN.Properties.Resources.resources
+D:\UTN\TUP PROG II\Examen Final 02-12-2022\Pedidos para alumnos\PedidosSLN\obj\Debug\PedidosSLN.csproj.GenerateResource.cache
+D:\UTN\TUP PROG II\Examen Final 02-12-2022\Pedidos para alumnos\PedidosSLN\obj\Debug\PedidosSLN.csproj.CoreCompileInputs.cache
+D:\UTN\TUP PROG II\Examen Final 02-12-2022\Pedidos para alumnos\PedidosSLN\obj\Debug\RecetasSLN.exe
+D:\UTN\TUP PROG II\Examen Final 02-12-2022\Pedidos para alumnos\PedidosSLN\obj\Debug\RecetasSLN.pdb
+D:\UTN\TUP PROG II\Examen Final 02-12-2022\Pedidos para alumnos\PedidosSLN\bin\Debug\RecetasSLN.exe.config
+D:\UTN\TUP PROG II\Examen Final 02-12-2022\Pedidos para alumnos\PedidosSLN\bin\Debug\RecetasSLN.exe
+D:\UTN\TUP PROG II\Examen Final 02-12-2022\Pedidos para alumnos\PedidosSLN\bin\Debug\RecetasSLN.pdb
+C:\Users\usuario\Desktop\Modelo parcial 2\Pedidos para alumnos\PedidosSLN\bin\Debug\RecetasSLN.exe.config
+C:\Users\usuario\Desktop\Modelo parcial 2\Pedidos para alumnos\PedidosSLN\bin\Debug\RecetasSLN.exe
+C:\Users\usuario\Desktop\Modelo parcial 2\Pedidos para alumnos\PedidosSLN\bin\Debug\RecetasSLN.pdb
+C:\Users\usuario\Desktop\Modelo parcial 2\Pedidos para alumnos\PedidosSLN\obj\Debug\PedidosSLN.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\Modelo parcial 2\Pedidos para alumnos\PedidosSLN\obj\Debug\PedidosSLN.csproj.SuggestedBindingRedirects.cache
+C:\Users\usuario\Desktop\Modelo parcial 2\Pedidos para alumnos\PedidosSLN\obj\Debug\RecetasSLN.presentación.FrmConsultar.resources
+C:\Users\usuario\Desktop\Modelo parcial 2\Pedidos para alumnos\PedidosSLN\obj\Debug\RecetasSLN.Properties.Resources.resources
+C:\Users\usuario\Desktop\Modelo parcial 2\Pedidos para alumnos\PedidosSLN\obj\Debug\PedidosSLN.csproj.GenerateResource.cache
+C:\Users\usuario\Desktop\Modelo parcial 2\Pedidos para alumnos\PedidosSLN\obj\Debug\PedidosSLN.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Modelo parcial 2\Pedidos para alumnos\PedidosSLN\obj\Debug\RecetasSLN.exe
+C:\Users\usuario\Desktop\Modelo parcial 2\Pedidos para alumnos\PedidosSLN\obj\Debug\RecetasSLN.pdb
